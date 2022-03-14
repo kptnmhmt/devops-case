@@ -16,10 +16,12 @@ Proje URL: https://github.com/symfony/demo/archive/refs/tags/v2.0.2.zip
 
 Adimlar:
 
-Clone project
-Build project  ( composer install )
-Run unit tests ( __PROJECT_PATH_/bin/phpunit )
-Run SonarQube
-Dockerize and push the image to docker hub
-Deploy in a test environment (Docker etc.)
-Deploy to Kubernetes 
+<ol>
+<li>Clone project</li>
+<li>Build project  ( composer install )</li>
+<li>Run unit tests ( __PROJECT_PATH_/bin/phpunit )</li>
+<li>Run SonarQube</li>
+<li>Dockerize and push the image to docker hub</li>
+<li>Deploy in a test environment (Docker etc.)</li>
+<li>Deploy to Kubernetes</li>
+</ol>
