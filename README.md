@@ -1,6 +1,6 @@
 # DevOps Case Study
 
-Prosedür
+## Prosedür
 
 Lütfen bu görev için bir github reposu açın ve adresini bizimle paylaşın.
 
@@ -10,13 +10,13 @@ Dilediğiniz dış kaynaklardan faydalanabilirsiniz. Lütfen kullandığınız d
 
 Bu görevde herhangi bir zaman sınırlaması bulunmamaktadır.
 
-Gorev: CI / CD pipeline olusturma
+## Gorev: CI / CD pipeline olusturma
 
 Aşağıda belirtilen repo örnek bir PHP blog projesidir. Asagida belirtilen adimlara gore bir pipeline olusturularak projenin deploy edilmesi gerekmektedir. Istenilen teknoloji / tool vb. kullanabilirsiniz.
 
 Proje URL: https://github.com/symfony/demo/archive/refs/tags/v2.0.2.zip
 
-Adimlar:
+## Adimlar:
 
 <ol>
 <li>Clone project</li>
