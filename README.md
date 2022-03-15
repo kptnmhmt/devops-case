@@ -10,9 +10,11 @@ Dilediğiniz dış kaynaklardan faydalanabilirsiniz. Lütfen kullandığınız d
 
 Bu görevde herhangi bir zaman sınırlaması bulunmamaktadır.
 
-## Gorev: CI / CD pipeline olusturma
+Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin.
 
-Aşağıda belirtilen repo örnek bir PHP blog projesidir. Asagida belirtilen adimlara gore bir pipeline olusturularak projenin deploy edilmesi gerekmektedir. Istenilen teknoloji / tool vb. kullanabilirsiniz.
+## Görev
+
+Aşağıda belirtilen repo örnek bir PHP blog projesidir. Asagida belirtilen adimlara gore bir CI / CD pipeline olusturularak projenin deploy edilmesi gerekmektedir. Istenilen teknoloji / tool vb. kullanabilirsiniz.
 
 Proje URL: https://github.com/symfony/demo/archive/refs/tags/v2.0.2.zip
 
