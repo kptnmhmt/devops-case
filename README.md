@@ -1,4 +1,4 @@
-# DevOps Case Study
+# Ideasoft DevOps Case Study
 
 ## Prosedür
 
