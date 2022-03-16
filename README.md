@@ -8,6 +8,9 @@ Tercih ettiğiniz tool, framework'ü kullanabilirsiniz.
 
 Dilediğiniz dış kaynaklardan faydalanabilirsiniz. Lütfen kullandığınız dış kaynak ve kodları görev içerisinde yorum olarak belirtin.
 
+## Sorular
+
+Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin.
 
 ## Görev
 
