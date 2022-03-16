@@ -10,17 +10,17 @@
 
 ## Sorular
 
-Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin.
+- Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin.
 
 ## Görev
 
-Aşağıda belirtilen repo örnek bir PHP blog projesidir. Asagida belirtilen adimlara gore bir CI / CD pipeline olusturularak projenin deploy edilmesi gerekmektedir. Istenilen teknoloji / tool vb. kullanabilirsiniz.
+- Aşağıda belirtilen repo örnek bir PHP blog projesidir. Asagida belirtilen adimlara gore bir CI / CD pipeline olusturularak projenin deploy edilmesi gerekmektedir. Istenilen teknoloji / tool vb. kullanabilirsiniz.
 
 Proje URL: https://github.com/symfony/demo/archive/refs/tags/v2.0.2.zip
 
 ## Zaman
 
-Bu görevde herhangi bir zaman sınırlaması bulunmamaktadır.
+- Bu görevde herhangi bir zaman sınırlaması bulunmamaktadır.
 
 ## Adimlar:
 
